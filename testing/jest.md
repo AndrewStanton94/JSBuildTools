@@ -6,9 +6,10 @@ permalink: /testing/jest/
 
 Testing criteria:
 * Ease of use
-    * To set up
+	* To set up
 	* To create tests
 	* To run the tests
+	* To set up with Typescript
 * Types of testing supported
 
     I'm currently thinking about Unit testing. What else can it be comfortably used with?
